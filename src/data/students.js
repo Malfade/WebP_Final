@@ -1,7 +1,7 @@
 const students = [
     {
         id: 1,
-        image: "https://i.pravatar.cc/300?img=1",
+        image: "https://randomuser.me/api/portraits/men/32.jpg",
         fullName: "John Smith",
         group: "CS-101",
         year: 1,
@@ -9,7 +9,7 @@ const students = [
     },
     {
         id: 2,
-        image: "https://i.pravatar.cc/300?img=2",
+        image: "https://randomuser.me/api/portraits/women/44.jpg",
         fullName: "Emma Johnson",
         group: "CS-101",
         year: 1,
@@ -17,7 +17,7 @@ const students = [
     },
     {
         id: 3,
-        image: "https://i.pravatar.cc/300?img=3",
+        image: "https://randomuser.me/api/portraits/men/22.jpg",
         fullName: "Michael Brown",
         group: "CS-102",
         year: 2,
@@ -25,7 +25,7 @@ const students = [
     },
     {
         id: 4,
-        image: "https://i.pravatar.cc/300?img=4",
+        image: "https://randomuser.me/api/portraits/women/68.jpg",
         fullName: "Sophia Davis",
         group: "CS-102",
         year: 2,
@@ -33,7 +33,7 @@ const students = [
     },
     {
         id: 5,
-        image: "https://i.pravatar.cc/300?img=5",
+        image: "https://randomuser.me/api/portraits/men/46.jpg",
         fullName: "William Wilson",
         group: "CS-103",
         year: 3,
@@ -41,7 +41,7 @@ const students = [
     },
     {
         id: 6,
-        image: "https://i.pravatar.cc/300?img=6",
+        image: "https://randomuser.me/api/portraits/women/65.jpg",
         fullName: "Olivia Martinez",
         group: "CS-103",
         year: 3,
@@ -49,7 +49,7 @@ const students = [
     },
     {
         id: 7,
-        image: "https://i.pravatar.cc/300?img=7",
+        image: "https://randomuser.me/api/portraits/men/83.jpg",
         fullName: "James Anderson",
         group: "CS-104",
         year: 4,
@@ -57,7 +57,7 @@ const students = [
     },
     {
         id: 8,
-        image: "https://i.pravatar.cc/300?img=8",
+        image: "https://randomuser.me/api/portraits/women/90.jpg",
         fullName: "Ava Taylor",
         group: "CS-104",
         year: 4,
@@ -65,7 +65,7 @@ const students = [
     },
     {
         id: 9,
-        image: "https://i.pravatar.cc/300?img=9",
+        image: "https://randomuser.me/api/portraits/men/54.jpg",
         fullName: "Benjamin Thomas",
         group: "CS-101",
         year: 1,
@@ -73,7 +73,7 @@ const students = [
     },
     {
         id: 10,
-        image: "https://i.pravatar.cc/300?img=10",
+        image: "https://randomuser.me/api/portraits/women/21.jpg",
         fullName: "Isabella Garcia",
         group: "CS-102",
         year: 2,
@@ -81,7 +81,7 @@ const students = [
     },
     {
         id: 11,
-        image: "https://i.pravatar.cc/300?img=11",
+        image: "https://randomuser.me/api/portraits/men/91.jpg",
         fullName: "Lucas Rodriguez",
         group: "CS-103",
         year: 3,
@@ -89,7 +89,7 @@ const students = [
     },
     {
         id: 12,
-        image: "https://i.pravatar.cc/300?img=12",
+        image: "https://randomuser.me/api/portraits/women/76.jpg",
         fullName: "Mia Hernandez",
         group: "CS-104",
         year: 4,
@@ -97,7 +97,7 @@ const students = [
     },
     {
         id: 13,
-        image: "https://i.pravatar.cc/300?img=13",
+        image: "https://randomuser.me/api/portraits/men/18.jpg",
         fullName: "Alexander Lopez",
         group: "CS-101",
         year: 1,
@@ -105,7 +105,7 @@ const students = [
     },
     {
         id: 14,
-        image: "https://i.pravatar.cc/300?img=14",
+        image: "https://randomuser.me/api/portraits/women/32.jpg",
         fullName: "Charlotte Gonzalez",
         group: "CS-102",
         year: 2,
@@ -113,7 +113,7 @@ const students = [
     },
     {
         id: 15,
-        image: "https://i.pravatar.cc/300?img=15",
+        image: "https://randomuser.me/api/portraits/men/71.jpg",
         fullName: "Daniel Perez",
         group: "CS-103",
         year: 3,
@@ -121,7 +121,7 @@ const students = [
     },
     {
         id: 16,
-        image: "https://i.pravatar.cc/300?img=16",
+        image: "https://randomuser.me/api/portraits/women/95.jpg",
         fullName: "Amelia Wilson",
         group: "CS-104",
         year: 4,
@@ -129,7 +129,7 @@ const students = [
     },
     {
         id: 17,
-        image: "https://i.pravatar.cc/300?img=17",
+        image: "https://randomuser.me/api/portraits/men/62.jpg",
         fullName: "Matthew Moore",
         group: "CS-101",
         year: 1,
@@ -137,7 +137,7 @@ const students = [
     },
     {
         id: 18,
-        image: "https://i.pravatar.cc/300?img=18",
+        image: "https://randomuser.me/api/portraits/women/47.jpg",
         fullName: "Harper Lee",
         group: "CS-102",
         year: 2,
@@ -145,7 +145,7 @@ const students = [
     },
     {
         id: 19,
-        image: "https://i.pravatar.cc/300?img=19",
+        image: "https://randomuser.me/api/portraits/men/36.jpg",
         fullName: "Ethan White",
         group: "CS-103",
         year: 3,
@@ -153,7 +153,7 @@ const students = [
     },
     {
         id: 20,
-        image: "https://i.pravatar.cc/300?img=20",
+        image: "https://randomuser.me/api/portraits/women/81.jpg",
         fullName: "Evelyn Harris",
         group: "CS-104",
         year: 4,

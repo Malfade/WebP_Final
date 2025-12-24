@@ -38,24 +38,24 @@ function StudentDetail() {
                             <div className="row mb-3">
                                 <div className="col-md-6">
                                     <div className="detail-item mb-3">
-                                        <h6 className="text-muted mb-1">🆔 Student ID</h6>
+                                        <h6 className="text-muted mb-1">ID</h6>
                                         <p className="fs-5">{student.id}</p>
                                     </div>
 
                                     <div className="detail-item mb-3">
-                                        <h6 className="text-muted mb-1">👥 Group</h6>
+                                        <h6 className="text-muted mb-1">Group</h6>
                                         <p className="fs-5">{student.group}</p>
                                     </div>
                                 </div>
 
                                 <div className="col-md-6">
                                     <div className="detail-item mb-3">
-                                        <h6 className="text-muted mb-1">📚 Year of Study</h6>
+                                        <h6 className="text-muted mb-1">Year of Study</h6>
                                         <p className="fs-5">Year {student.year}</p>
                                     </div>
 
                                     <div className="detail-item mb-3">
-                                        <h6 className="text-muted mb-1">⭐ GPA</h6>
+                                        <h6 className="text-muted mb-1">GPA Score</h6>
                                         <p className="fs-5">
                                             <span className="badge bg-success fs-6">
                                                 {student.gpa.toFixed(1)}
@@ -70,7 +70,7 @@ function StudentDetail() {
                                     className="btn btn-primary btn-lg px-4"
                                     onClick={() => navigate('/')}
                                 >
-                                    ← Back to List
+                                    ◄ BACK TO LIST
                                 </button>
                             </div>
                         </div>

@@ -16,13 +16,13 @@ function StudentCard({ student }) {
                         <h5 className="card-title text-dark">{student.fullName}</h5>
                         <div className="card-text">
                             <p className="mb-2 text-muted">
-                                <strong>👥 Group:</strong> {student.group}
+                                <strong>▸ Group:</strong> {student.group}
                             </p>
                             <p className="mb-2 text-muted">
-                                <strong>📚 Year:</strong> {student.year}
+                                <strong>▸ Year:</strong> {student.year}
                             </p>
                             <p className="mb-0 text-muted">
-                                <strong>⭐ GPA:</strong> {student.gpa.toFixed(1)}
+                                <strong>▸ GPA:</strong> {student.gpa.toFixed(1)}
                             </p>
                         </div>
                     </div>

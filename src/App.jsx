@@ -8,7 +8,7 @@ function App() {
       <nav className="navbar navbar-light bg-primary shadow-sm sticky-top">
         <div className="container">
           <span className="navbar-brand mb-0 h1">
-            🎓 Student Catalog
+            ⚡ STUDENT CATALOG
           </span>
         </div>
       </nav>

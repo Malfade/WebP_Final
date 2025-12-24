@@ -15,7 +15,7 @@ function StudentList() {
     return (
         <div className="container py-5">
             <div className="text-center mb-5">
-                <h1 className="display-4 fw-bold">✨ Student Catalog 2025</h1>
+                <h1 className="display-4 fw-bold">⚡ STUDENT CATALOG 2025</h1>
                 <p className="lead">Discover our talented and ambitious students</p>
             </div>
 
